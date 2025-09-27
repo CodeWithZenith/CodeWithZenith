@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Michael 👋 (aka CodeWithZenith)
 
-<!--
-**CodeWithZenith/CodeWithZenith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Analytics Student @ WGU**  
+💻 **Founder of FocusZenith** – building tools for focus, music, and learning  
+📚 **Sharing study guides, notes, and code** to support fellow students and developers  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What You'll Find Here
+- 🎓 **WGU Study Resources** – condensed notes, cheat sheets, and exam prep packets  
+- 💻 **Programming & Analytics Projects** – Python, SQL, data visualization, and more  
+- 🎵 **FocusZenith Code** – tech + creativity merged through music and productivity  
+- 🤝 **Open Resources** – designed to be shared, forked, and improved by the community  
+
+---
+
+## 📌 Featured Repositories
+- 📘 **D278 – Scripting & Programming**: Lecture notes + Q&A practice packets  
+- 📊 **Excel & Data Analytics Resources**: PreA → OA guides & applied projects  
+- 🎶 **FocusZenith Projects**: Relaxation & study-focused creative tools  
+
+---
+
+## 🌐 Connect With Me
+- ✨ [FocusZenith](https://github.com/CodeWithZenith)  
+- 📧 focuszenith.info@gmail.com  
+- 🔗 Coming soon: Portfolio + blog  
+
+---
+
+> 💡 *Learning and sharing knowledge is part of the journey. Everything here is free for students, creators, and curious minds to build on.*
