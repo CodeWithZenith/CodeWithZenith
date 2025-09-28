@@ -1,7 +1,7 @@
 # Hi, I'm Michael 👋 (aka CodeWithZenith)
 
 🎓 **Data Analytics Student @ WGU**  
-💻 **Founder of FocusZenith** – building tools for focus, music, and learning  
+💻 **Founder of FocusZenith** – building tools for productivity, music, and finance  
 📚 **Sharing study guides, notes, and code** to support fellow students and developers  
 
 ---
@@ -15,9 +15,7 @@
 ---
 
 ## 📌 Featured Repositories
-- 📘 **D278 – Scripting & Programming**: Lecture notes + Q&A practice packets  
-- 📊 **Excel & Data Analytics Resources**: PreA → OA guides & applied projects  
-- 🎶 **FocusZenith Projects**: Relaxation & study-focused creative tools  
+- 🎶 **FocusZenith Projects**: Productivity & study-focused creative tools  
 
 ---
 
